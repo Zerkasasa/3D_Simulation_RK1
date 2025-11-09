@@ -395,7 +395,7 @@ def main():
     circle_radius = 20
     outer_radius = 90
 
-    texture_path = "rock.png"
+    texture_path = "imageForRK.png"
 
     img = Image.new("RGB", (width, height), bg)
 
@@ -435,3 +435,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
